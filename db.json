@@ -1,0 +1,4 @@
+{
+  "escaped": {"data": "Lorem\\nipsum\\ndolor\\nsit\\namet\\neirmod\\nut\\nsed\\ncommodo\\nat\\naliquyam\\naliquyam\\nsea\\ngubergren\\nest."},
+  "non-escaped": {"data": "Lorem\nipsum\ndolor\nsit\namet\neirmod\nut\nsed\ncommodo\nat\naliquyam\naliquyam\nsea\ngubergren\nest."}
+}
